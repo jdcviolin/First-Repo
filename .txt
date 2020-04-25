@@ -1,1 +1,1 @@
-First line of code in Git
+First line of code in Git. Second line.
